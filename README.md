@@ -1,5 +1,5 @@
 # hello-world
-My name is Milton Reyes. I'm currently the Microsoft Dynamics CRM Developer @ gruposantillanapr.com
+<p>My name is Milton Reyes. I'm currently the Microsoft Dynamics CRM Developer @ gruposantillanapr.com</p>
 Things I like:
   Minecraft,
   Gentoo,
