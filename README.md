@@ -8,5 +8,5 @@
   <li>Humanitarian causes</li>
   <li>Programing Languages</li>
   <li>Open Source Software</li></ul>
-<p>Please feel free to check out my channel on youtube @ https://www.youtube.com/channel/UCj05ftBqG6Fh1t60dhATvWw/videos
+<p>Please feel free to visit my channel on youtube @ https://www.youtube.com/channel/UCj05ftBqG6Fh1t60dhATvWw/videos
 I'm also developing http://www.clasificadospr.com on my free time. Be sure to check it out from time to time.</p>
